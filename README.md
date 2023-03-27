@@ -2,10 +2,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
 </p>
 
-<p align="center">
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=hello%20&height=150&fontSize=60&descAlignY=75&descAlign=60)
-</p>
 
+
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee&textAline=center5&text=hello%20&height=150&fontSize=60&descAlignY=75&descAlign=60)
+
+
+    
 <br>
 
 <p align="center">
