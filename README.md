@@ -1,6 +1,10 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
+</p>
 
+<p align="center">
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=hello%20&height=150&fontSize=60&descAlignY=75&descAlign=60)
+</p>
 
 <br>
 
@@ -49,5 +53,6 @@ hi there👐<br>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" />
+</p>
