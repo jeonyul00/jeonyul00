@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
 </p>
 
-<h1 align="center">Hi there! I'm Jeon Yul 👋</h1>
+<h1 align="center">Hello World!</h1>
 
 <p align="center">
-  I'm a passionate Software Developer with expertise in TypeScript, JavaScript, React, React Native, Node.js, Express.js, and Nest.js.
+Hi there! I'm Yul👋
 </p>
 
 <h2 align="center">My Skills</h2>
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" />
 </p>
 
 
