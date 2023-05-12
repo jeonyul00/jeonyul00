@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-hi there👋<br>
+Hello World!👋<br>
 </p>
 
 <p align="center">
