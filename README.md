@@ -4,13 +4,6 @@
 </p>
 
 <h1 align="center">Hello World!</h1>
-
-<p align="center">
-Hi there! I'm Yul👋
-</p>
-
-<h2 align="center">My Skills</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
