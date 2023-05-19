@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="https://your-image-url.com" alt="Header" width="800" height="400" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
+</p>
+
+<h1 align="center">Hi there! 👋</h1>
+
+<p align="center">
+  I'm John Doe, a passionate software engineer from XYZ. <br />
+  I love building amazing applications with the following technologies:
 </p>
 
 <p align="center">
@@ -17,5 +27,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" />
 </p>
 
-
-
+<p align="center">
+  <a href="https://your-website-url.com"><img src="https://your-image-url.com" alt="Footer" width="800" height="200" /></a>
+</p>
