@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
 </p>
 
-<h2 align="center">Hello, world!</h2>
+<h2 align="center">Hello, World!</h2>
 
 
 <p align="center">
