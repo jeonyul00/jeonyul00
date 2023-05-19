@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-  Hello, World!
+  Hello, World!👋
 </h3>
 
 <p align="center">
