@@ -6,9 +6,9 @@
 <h2 align="center">Hello, World!</h2>
 
 <p align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact)](https://github.com/jeonyul00)
-
+  <a href="https://github.com/jeonyul00">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact&theme=dark" alt="Top Langs">
+  </a>
 </p>
 
 <p align="center">
