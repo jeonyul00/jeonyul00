@@ -3,16 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
 </p>
 
-<h2 align="center">Hello, World!</h2>
-
-
-
-<p align="center">
-  <a href="https://github.com/jeonyul00">
-      <img src="https://github-readme-stats.vercel.app/api?username=jeonyul&show_icons=true&theme=dark" alt="GitHub Stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact&theme=dark" alt="Top Langs">
-  </a>
-</p>
 
 
 <p align="center">
@@ -24,6 +14,18 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" />
 </p>
+
+
+
+<p align="center">
+  <a href="https://github.com/jeonyul00">
+      <img src="https://github-readme-stats.vercel.app/api?username=jeonyul&show_icons=true&theme=dark" alt="GitHub Stats" height="160">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact&theme=dark" alt="Top Langs" height="160">
+  </a>
+</p>
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" />
