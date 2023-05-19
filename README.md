@@ -1,8 +1,6 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=95&section=header&animation=twinkling" />
 </p>
-
 
 <h3 align="center">
   Hello, World!👋
@@ -20,17 +18,12 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/jeonyul00">
       <img src="https://github-readme-stats.vercel.app/api?username=jeonyul00&show_icons=true&theme=dark" alt="GitHub Stats" height="160">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact&theme=dark" alt="Top Langs" height="160">
   </a>
 </p>
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=95&section=footer&animation=twinkling" />
