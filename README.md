@@ -4,7 +4,7 @@
 </p>
 
 
-<h4 align="center">
+<h2 align="center">
   Hello, World!
 </h4>
 
