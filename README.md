@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=header&animation=twinkling" />
 </p>
 
 
-<h2 align="center">
+<h3 align="center">
   Hello, World!
-</h4>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -33,5 +33,5 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=75&section=footer&animation=twinkling" />
 </p>
