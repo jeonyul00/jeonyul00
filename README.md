@@ -6,13 +6,14 @@
 <h2 align="center">Hello, World!</h2>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeonyul&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul&layout=compact&theme=dark" alt="Top Languages">
+  <a href="https://github.com/jeonyul00">
+      <img src="https://github-readme-stats.vercel.app/api?username=jeonyul&show_icons=true&theme=dark" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact&theme=dark" alt="Top Langs">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
