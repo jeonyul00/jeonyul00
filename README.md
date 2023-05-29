@@ -16,12 +16,7 @@
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="Nest.js" height="23" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/jeonyul00">
-      <img src="https://github-readme-stats.vercel.app/api?username=jeonyul00&show_icons=true&theme=dark" alt="GitHub Stats" height="160">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonyul00&layout=compact&theme=dark" alt="Top Langs" height="160">
-  </a>
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling" />
 </p>
