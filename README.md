@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&text=Hello,%20World!🌍&fontSize=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&fontAlign=70&fontAlignY=70&animation=scaleIn" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer&animation=scaleIn" />
 </p>
