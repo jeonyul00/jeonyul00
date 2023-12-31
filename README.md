@@ -1,4 +1,11 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient" />
+</p>
+
+<h3 align="center">
+  Hello, World!👋
+</h3>
+<p align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello,%20World!👋&reversal=false&textBg=false&fontColor=FFFFFF&fontSize=20&animation=twinkling" />
 </p>
 
@@ -9,4 +16,7 @@
   <a href="#"><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" height="28" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="28" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="28" /></a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
