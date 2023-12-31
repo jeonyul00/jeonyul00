@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=header&animation=fadeIn" />
-</p>
 
 <h3 align="center">
   Hello, World!👋
@@ -15,6 +12,3 @@
   <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="28" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=150&section=footer&animation=scaleIn" />
-</p>
