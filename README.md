@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=timeGradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient" />
 </p>
 
 <h3 align="center">
@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling" />  
+<!--   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling" />   -->
 </p>
